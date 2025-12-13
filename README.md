@@ -18,11 +18,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## 📈 GitHub Analytics
-<p align="center">
-  <a href="https://github.com/edanairis">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edanairis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edanairis&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+
+![Edanairis's github stats](https://github-readme-stats.vercel.app/api?username=edanairis&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edanairis&theme=tokyonight" alt="mystreak"/>
+![Edanairis's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edanairis&theme=tokyonight&layout=compact)
