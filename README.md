@@ -20,5 +20,4 @@
 ## 📈 GitHub Analytics
 
 ![Edanairis's github stats](https://github-readme-stats.vercel.app/api?username=edanairis&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edanairis&theme=tokyonight" alt="mystreak"/>
 ![Edanairis's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edanairis&theme=tokyonight&layout=compact)
