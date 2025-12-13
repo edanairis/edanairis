@@ -1,4 +1,4 @@
-## Hi there 👋 i'am Edanairis Colina
+<h1>Hi there 👋 i'am Edanairis Colina</h1>
 
 <!-- BREVE DESCRIPCION -->
 
@@ -8,7 +8,7 @@
 - 📚 Reading, learning, and creating
 - 📫 How to reach me **contactoedanairiscolina@gmail.com**
 
-### 🛠 &nbsp;Tech Stack
+<h2>Tech Stack</h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
