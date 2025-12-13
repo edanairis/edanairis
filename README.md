@@ -1,4 +1,4 @@
-# Hi there 👋 i'am Eda
+# Hi there 👋 i'am Edanairis Colina
 
 <!-- BREVE DESCRIPCION -->
 
@@ -16,3 +16,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## 📈 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=edanairis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=edanairis&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edanairis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
