@@ -1,4 +1,4 @@
-# Hi there 👋 i'am Edanairis Colina
+# Hi there 👋 I'am Edanairis Colina
 
 <!-- BREVE DESCRIPCION -->
 
