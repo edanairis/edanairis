@@ -1,25 +1,46 @@
-# Hi there 👋 I'am Edanairis Colina
+<h1 align="left">Hi there, I'm Eda 👋</h1>
 
-<!-- BREVE DESCRIPCION -->
+###
 
-- 🎓 I am currently in the race **Computer Engineering**
-- 💻 Building web projects and learning along the way
-- 🚀 Curious by nature, passionate about technology
-- 📚 Reading, learning, and creating
-- 📫 How to reach me **contactoedanairiscolina@gmail.com**
+<p align="left">My name is Edanairis and I'm a Computer Engineering Student from Venezuela</p>
 
-## 🛠️ Tech Stack
+###
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<h2 align="left">About me</h2>
 
-## 📈 GitHub Analytics
+###
 
-<p align="center">
+<p align="left">🎓 Computer Engineering Student<br>    💻 Building web projects and learning along the way<br>    🚀 Curious by nature, passionate about technology<br>    📚 Reading, learning, and creating<br>    📫 How to reach me contactoedanairiscolina@gmail.com</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">GitHub Analytics</h2>
+
+<p align="left">
 <a href="https://github.com/edanairis">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edanairis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edanairis&layout=compact&langs_count=8&theme=algolia"/>
