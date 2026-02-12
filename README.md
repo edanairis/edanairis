@@ -42,7 +42,7 @@
 
 <p align="left">
 <a href="https://github.com/edanairis">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edanairis&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edanairis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edanairis&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
